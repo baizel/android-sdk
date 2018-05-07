@@ -67,7 +67,7 @@ folder in your app project and add the reference to its `build.gradle` file.
 For version `24-noconnect-2.20b` it would be:
 
 ```
-compile 'com.spotify.sdk:spotify-player-24-noconnect-2.20b@aar'
+implementation 'com.spotify.sdk:spotify-player-24-noconnect-2.20b@aar'
 ```
 
 To learn more about working with the player see the
